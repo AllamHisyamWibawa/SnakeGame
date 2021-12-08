@@ -244,20 +244,20 @@ if __name__ == "__main__":
     exit(app.exec_())
 
 
-[display]
-width=640
-height=480
-hborder=20
-vborder=40
+#[display]
+#width=640
+#height=480
+#hborder=20
+#vborder=40
 
-[game]
-speed=3
-timeout_min=20
-timeout_max=80
+#[game]
+#speed=3
+#timeout_min=20
+#timeout_max=80
 
-[objects]
-object_size=10
-apples_limit=6
-apples_rate_min=10
-apples_rate_max=40
-snake_move=0.02
+#[objects]
+#object_size=10
+#apples_limit=6
+#apples_rate_min=10
+#apples_rate_max=40
+#snake_move=0.02
